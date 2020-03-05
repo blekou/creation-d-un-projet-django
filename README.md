@@ -6,7 +6,7 @@ Creation d'un projet Django
 
 Creation d'un environnement virtuel venv
 Avec les commandes
-`Python3 venv venv`
+`Python3 -m venv venv`
 Activé le venv avec la commande
 `Source venv/bin/activate`
 
